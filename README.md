@@ -3,6 +3,8 @@ www.dio.me
 
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
+
+#### Resolvido por 
 - [Josimar Martins](https://github.com/Josimar-Mart)
 
 ## Sintaxe - Desafio
